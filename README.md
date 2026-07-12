@@ -55,3 +55,17 @@ The agent was prepared as a simple read‑only support assistant: it was given a
 
 
 <img width="1159" height="864" alt="image" src="https://github.com/user-attachments/assets/c47f2da3-3b0d-4a25-97d4-e1d60cbbefb7" />
+
+<h1> Canvas App - Power Apps </h1>
+<p> 
+The really simple draft app was prepared to present usage of generated data in tool by care support. Of course we can go further with more complex logics / automations (automatic notification on status change and reminders). 
+</p>
+
+<h2>Page - Case List </h2>
+
+<img width="1294" height="732" alt="image" src="https://github.com/user-attachments/assets/75c20050-9001-40dc-9088-dea12918e1f6" />
+
+<h2>Page - Form </h2>
+
+<img width="1324" height="722" alt="image" src="https://github.com/user-attachments/assets/86ab8df3-86b1-4525-88c7-f3210b86f357" />
+
